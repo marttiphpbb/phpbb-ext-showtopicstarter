@@ -13,6 +13,8 @@ Implemented as phpBB 3.2 extension after [this idea](https://area51.phpbb.com/ph
 
 ## Screenshot
 
+![Topic Starter](doc/topic_starter.png)
+
 ## Quick Install
 
 You can install this on the latest release of phpBB 3.2 by following the steps below:
@@ -34,7 +36,3 @@ You can install this on the latest release of phpBB 3.2 by following the steps b
 ## License
 
 [GPL-2.0](license.txt)
-
-## Screenshot
-
-![Topic Starter](doc/topic_starter.png)
