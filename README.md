@@ -9,7 +9,7 @@ phpBB 3.2+ PHP 7+
 This extension shows the string "Topic Starter" underneath the avatar in all posts of the topic starter (OP).
 
 The original idea is from the [MOD Topic Starter](https://www.phpbb.com/customise/db/mod/topic_starter/).
-Implemented as phpBB 3.2 extension after [this idea](https://area51.phpbb.com/phpBB/viewtopic.php?f=108&t=42573).
+Implemented as phpBB 3.2 extension.
 
 ## Screenshot
 
