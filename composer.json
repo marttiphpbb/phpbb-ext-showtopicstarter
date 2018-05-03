@@ -5,6 +5,7 @@
 	"homepage": "https://github.com/marttiphpbb/phpbb-ext-showtopicstarter",
 	"version": "0.1.0",
 	"time": "2018-05-03",
+	"keywords": ["phpbb", "extension", "topic starter", "OP"],
 	"license": "GPL-2.0",
 	"authors": [{
 			"name": "martti",
