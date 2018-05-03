@@ -1,14 +1,10 @@
 # PhpBB Extension - marttiphpbb Show Topic Starter
 
-[Topic on phpBB.com](https://www.phpbb.com/community/viewtopic.php?f=456&t=2470326)
-
 ## Requirements
 
 phpBB 3.2+ PHP 7+
 
 ## Features
-
-
 
 ## Quick Install
 

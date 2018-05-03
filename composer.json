@@ -4,7 +4,7 @@
 	"description": "Show Topic Starter Extension for phpBB 3.2",
 	"homepage": "https://github.com/marttiphpbb/phpbb-ext-showtopicstarter",
 	"version": "0.1.0",
-	"time": "2018-04-18",
+	"time": "2018-05-03",
 	"license": "GPL-2.0",
 	"authors": [{
 			"name": "martti",

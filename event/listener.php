@@ -11,14 +11,8 @@ use phpbb\event\data as event;
 
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 
-class main_listener implements EventSubscriberInterface
+class listener implements EventSubscriberInterface
 {
-	/**
-	*/
-	public function __construct()
-	{
-	}
-
 	static public function getSubscribedEvents()
 	{
 		return [
