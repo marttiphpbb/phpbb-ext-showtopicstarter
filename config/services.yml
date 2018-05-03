@@ -1,0 +1,5 @@
+services:
+    marttiphpbb.showtopicstarter.listener:
+        class: marttiphpbb\showtopicstarter\event\main_listener
+        tags:
+            - { name: event.listener }          

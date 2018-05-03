@@ -1,0 +1,32 @@
+{
+	"name": "marttiphpbb/showtopicstarter",
+	"type": "phpbb-extension",
+	"description": "Show Topic Starter Extension for phpBB 3.2",
+	"homepage": "https://github.com/marttiphpbb/phpbb-ext-showtopicstarter",
+	"version": "0.1.0",
+	"time": "2018-04-18",
+	"license": "GPL-2.0",
+	"authors": [{
+			"name": "martti",
+			"email": "info@martti.be",
+			"homepage": "https://github.com/marttiphpbb/",
+			"role": "Developer"
+		}],
+	"require": {
+		"php": ">=7"
+	},
+	"require-dev": {
+
+	},
+	"extra": {
+		"display-name": "Show Topic Starter",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.2,<3.3"
+		},
+		"version-check": {
+			"host": "marttiphpbb.github.io",
+			"directory": "/version",
+			"filename": "showtopicstarter.json"
+		}
+	}
+}
