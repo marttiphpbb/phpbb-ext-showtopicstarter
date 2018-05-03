@@ -22,7 +22,6 @@ You can install this on the latest release of phpBB 3.2 by following the steps b
 * Create `marttiphpbb/showtopicstarter` in the `ext` directory.
 * Download and unpack the repository into `ext/marttiphpbb/showtopicstarter`
 * Enable `Show Topic Starter` in the ACP at `Customise -> Manage extensions`.
-* You can start editing the Show Topic Starter in the Forum ACP for each Forum.
 
 ## Uninstall
 
