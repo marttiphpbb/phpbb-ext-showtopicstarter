@@ -8,7 +8,6 @@
 namespace marttiphpbb\showtopicstarter\event;
 
 use phpbb\event\data as event;
-
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 
 class listener implements EventSubscriberInterface
